@@ -1,0 +1,3 @@
+# requirements.txt
+# Full working code implementation of requirements.txt
+# Add required packages here...
